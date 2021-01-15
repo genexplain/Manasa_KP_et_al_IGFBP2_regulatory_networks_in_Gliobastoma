@@ -1,5 +1,5 @@
 # Manasa_KP_et_al_IGFBP2_regulatory_networks_in_Gliobastoma
-Links to computational workflows, supplementary research data and results of the study
+Links to computational workflows, supplementary research data and results of the study\
 doi: 10.20944/preprints202010.0046.v2
 
 **The Workflow**\

@@ -5,20 +5,20 @@ doi: 10.20944/preprints202010.0046.v2
 **The Workflow**\
 In the study, we developed a computational workflow for analysis of publicly available datasets of Glioblastoma multiforme to understand the gene regulatory networks driving short survival. To understand such gene regulatory networks, the Genome Enhancer (https://ge.genexplain.com) pipeline developed on the basis of open source BioUML platform (www.biouml.org). The pipeline used the Upstream Analysis protocol described earlier [https://pubmed.ncbi.nlm.nih.gov/30999858/], which integrates promoter and pathway analysis, to identify signalling molecules as potential drug targets of the studied pathology. Datasets used in the study, clinical info and workflow descriptions are described here as well as in the manuscript cited below. Results and the computational workflow are provided with public access.  
 
-**Data Folder** 
+**Data Folder** \
 
 Contains (a) cleaned up expression data (b) Sample info (c) Limma and (d) list of upregulated genes for GSE dataset (GSE108474  & GSE53733) and TCGA-GBM microarray dataset. 
 The GSE_upregulated(0.5).txt and TCGA_upregulated(0.5).txt both can be used as input to the workflow. TCGA-GBM microarray data were used to validate the observations.
 
-**Study result**
+**Study result**\
 
 The results reported in the article can be accessed and viewed here
 
-**Workflows** 
+**Workflows**\
 
 The computational workflow applied in the study can be inspected here
 
-**Workflow execution** 
+**Workflow execution**\ 
 
 To run the workflow please click here. Drag and drop the input file of upregulated genes– “GSE dataset/ GSE_uprergulated(0.5)” onto the workflow execution box. The results are generated and will be accessible under Results_new/Output/ folder 
 

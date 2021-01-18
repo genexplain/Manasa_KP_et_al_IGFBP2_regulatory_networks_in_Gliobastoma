@@ -11,13 +11,12 @@ The GSE_upregulated(0.5).txt and TCGA_upregulated(0.5).txt both can be used as i
 
 
 **Study result**
-#### The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
+#### The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/bioumlweb/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/)
 
 **Workflows**
-#### The computational workflow applied in the study can be inspected [here]
-
-**Workflow execution**\ 
-To run the workflow please click here. Drag and drop the input file of upregulated genes– “GSE dataset/ GSE_uprergulated(0.5)” onto the workflow execution box. The results are generated and will be accessible under Results_new/Output/ folder 
+Input: upregulated genes– “GSE dataset/ GSE_uprergulated(0.5)
+#### The computational workflow applied in the study can be inspected [here](https://ge.genexplain.com/bioumlweb/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GE%20workflow/Workflow)
+The results are generated and will be accessible under Results/Output/  folder 
 
 **Workflow result**\
 This automated workflow, generates a results folder –Results of the workflow will be in  Results_new/output/ folder. 

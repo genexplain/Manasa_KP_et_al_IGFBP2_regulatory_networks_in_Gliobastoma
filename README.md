@@ -10,12 +10,10 @@ Contains (a) cleaned up expression data (b) Sample info (c) Limma and (d) list o
 The GSE_upregulated(0.5).txt and TCGA_upregulated(0.5).txt both can be used as input to the workflow. TCGA-GBM microarray data were used to validate the observations.
 
 **Study result**\
-
-The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
+## The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
 
 **Workflows**\
-<p align="center">
-The computational workflow applied in the study can be inspected [here]
+## The computational workflow applied in the study can be inspected [here]
 
 **Workflow execution**\ 
 To run the workflow please click here. Drag and drop the input file of upregulated genes– “GSE dataset/ GSE_uprergulated(0.5)” onto the workflow execution box. The results are generated and will be accessible under Results_new/Output/ folder 

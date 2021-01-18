@@ -1,0 +1,527 @@
+Sample	Histology	Grade	Subtype.svm	Subtype.knn	Subtype.ssgsea	Subtype_Verhaak_2010	CIMP_status	OST_GSE16011	OS_GSE16011	IDH1_status	EGFR_status	LOH_1p	LOH_19q	Gender	Age	Survival_Group		TCGA _ID 	age_TCGA_all	Age_cat	OST_TCGA_all	OS_TCGA_all	Survival_group 
+GSM405213	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	16.1	1	Wild_type	NA	NO 	PARTIAL 	Male 	44.09			TCGA-12-0657	69	0	0.1	1	ST
+GSM405214	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	18	1	Wild_type	NON_AMP 	NO 	NO 	Male 	37.84			TCGA-32-1977	63	0	0.1	0	ST
+GSM405215	GBM	IV	Proneural	Classical	Proneural	Classical	NON G-CIMP	27.6	1	Wild_type	NA	NO 	NO 	Male 	51.44			TCGA-19-1791	82	0	0.13	0	ST
+GSM405216	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	39.4	1	Wild_type	NON_AMP 	NA	NO 	Male 	52.06			TCGA-28-1757	71	0	0.13	0	ST
+GSM405217	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Proneural	G-CIMP	81.2	0	Mut	NON_AMP 	NA	NO 	Male 	33.2			TCGA-19-2624	51	0	0.16	1	ST
+GSM405218	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	7.7	1	Wild_type	AMP 	NO 	NO 	Male 	32.36			TCGA-06-0140	86	0	0.2	1	ST
+GSM405219	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	7	1	NA	AMP 	PARTIAL 	NO 	Male 	57.25			TCGA-28-1746	77	0	0.2	0	ST
+GSM405220	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	15.2	1	Wild_type	NON_AMP 	NA	NA	Male 	54.12			TCGA-41-4097	63	0	0.2	1	ST
+GSM405221	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	8.3	1	NA	NON_AMP 	NA	NA	Male 	55.52			TCGA-06-0402	71	0	0.26	1	ST
+GSM405222	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	15.6	1	NA	NA	NA	NA	Male 	54.06			TCGA-06-0201	51	0	0.39	1	ST
+GSM405223	GBM	IV	Proneural	Classical	Proneural	Classical	NON G-CIMP	23	1	Wild_type	AMP 	NA	NA	Female 	53.26			TCGA-14-3476	74	0	0.39	1	ST
+GSM405224	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	5.8	1	Wild_type	NON_AMP 	NA	NA	Male 	47.74			TCGA-06-2569	24	1	0.43	0	ST
+GSM405228	GBM	IV	Classical	Classical	Mesenchymal	Classical	NON G-CIMP	8.5	1	Wild_type	NON_AMP 	NA	NA	Male 	45.71			TCGA-32-1976	65	0	0.49	1	ST
+GSM405229	GBM	IV	Proneural	Mesenchymal	Mesenchymal	Proneural	NON G-CIMP	7.9	1	Wild_type	NA	NO 	NO 	Female 	54.18			TCGA-06-0213	55	0	0.53	1	ST
+GSM405230	GBM	IV	Mesenchymal	Classical	Mesenchymal	Classical	NON G-CIMP	5.6	1	Wild_type	NA	NO 	NO 	Female 	63.33			TCGA-02-0439	70	0	0.66	1	ST
+GSM405231	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	15.1	1	NA	NA	NO 	NO 	Female 	62.96			TCGA-19-0962	77	0	0.66	1	ST
+GSM405232	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	11.8	1	Mut	NON_AMP 	NO 	NO 	Male 	35.7			TCGA-28-2502	65	0	0.66	0	ST
+GSM405233	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	10.3	1	Wild_type	NON_AMP 	NA	NA	Male 	51.64			TCGA-06-0219	67	0	0.72	1	ST
+GSM405234	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	7.4	1	NA	NA	NA	NA	Female 	57.68			TCGA-08-0392	60	0	0.72	1	ST
+GSM405235	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	2.5	1	Wild_type	NA	NA	NA	Male 	71.09			TCGA-41-2571	89	0	0.85	1	ST
+GSM405236	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	12.4	1	Wild_type	NA	NA	NA	Male 	52.2			TCGA-06-0750	43	1	0.92	1	ST
+GSM405237	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	4.9	1	Wild_type	NA	NA	NA	Male 	51.17			TCGA-14-1455	61	0	0.92	1	ST
+GSM405238	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	11.3	1	Wild_type	NA	NA	NA	Male 	37.25			TCGA-14-0781	49	1	0.95	1	ST
+GSM405239	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	7.1	1	Wild_type	NA	NA	NA	Female 	73.65			TCGA-14-1794	59	0	0.99	1	ST
+GSM405240	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Proneural	NON G-CIMP	79.4	0	Mut	NA	NO 	NO 	Male 	33.09			TCGA-41-3392	88	0	0.99	1	ST
+GSM405241	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	1.9	1	NA	NA	NA	NA	Male 	55.98			TCGA-06-2557	76	0	1.08	1	ST
+GSM405242	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	2.2	1	NA	NA	NA	NA	Male 	30.33			TCGA-19-2621	83	0	1.08	1	ST
+GSM405243	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	10.6	1	NA	NA	NA	NA	Male 	61.33			TCGA-14-1396	78	0	1.12	1	ST
+GSM405244	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	24.6	1	Mut	NA	NA	NO 	Male 	29.55			TCGA-14-1453	69	0	1.15	1	ST
+GSM405245	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	16.8	1	Wild_type	NA	NO 	NA	Male 	37.98			TCGA-32-1980	72	0	1.18	1	ST
+GSM405246	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	75.7	1	Mut	NA	YES 	YES 	Male 	32.59			TCGA-28-1753	53	0	1.22	0	ST
+GSM405247	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	19.1	1	Wild_type	NA	NO 	NO 	Male 	39.36			TCGA-08-0352	79	0	1.28	1	ST
+GSM405248	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	10.1	1	Mut	NA	NA	NO 	Male 	55.2			TCGA-14-0813	78	0	1.35	1	ST
+GSM405249	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	0.5	1	Mut	NON_AMP 	NA	NA	Male 	23.02			TCGA-06-6391	44	1	1.48	1	ST
+GSM405251	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	38.5	1	NA	NA	NA	NA	Female 	26.17			TCGA-28-1755	52	0	1.55	1	ST
+GSM405252	GBM	IV	Mesenchymal	Proneural	Proneural	Neural	NON G-CIMP	4.4	1	Wild_type	NA	NA	NA	Male 	68.04			TCGA-26-5139	65	0	1.58	0	ST
+GSM405253	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	150.7	0	Wild_type	NA	NO 	NO 	Male 	34.84			TCGA-81-5910	64	0	1.61	1	ST
+GSM405254	GBM	IV	Classical	Classical	Proneural	Classical	NON G-CIMP	7.1	1	Wild_type	NA	NO 	NO 	Male 	40.58			TCGA-08-0345	71	0	1.74	1	ST
+GSM405255	GBM	IV	Classical	Classical	Classical	Neural	NON G-CIMP	13	1	Wild_type	AMP 	NO 	NO 	Male 	47.93			TCGA-19-5955	83	0	1.78	1	ST
+GSM405260	GBM	IV	Proneural	Proneural	Proneural	Classical	NON G-CIMP	9.8	1	Wild_type	NA	NO 	NO 	Male 	57.58			TCGA-14-1795	66	0	1.97	1	ST
+GSM405262	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	34.7	1	Wild_type	AMP 	NA	NA	Male 	43.26			TCGA-12-5301	59	0	2.04	1	ST
+GSM405263	GBM	IV	Mesenchymal	Classical	Classical	Classical	NON G-CIMP	18.6	1	Wild_type	NON_AMP 	NA	NA	Male 	61.74			TCGA-14-0867	67	0	2.04	1	ST
+GSM405264	GBM	IV	Mesenchymal	Classical	Mesenchymal	Classical	NON G-CIMP	3.8	1	Wild_type	NA	NO 	NO 	Male 	36.5			TCGA-06-0649	73	0	2.1	1	ST
+GSM405266	GBM	IV	Proneural	Classical	Proneural	Classical	NON G-CIMP	3	1	Wild_type	AMP 	NO 	YES 	Male 	51.62			TCGA-06-0142	81	0	2.2	1	ST
+GSM405267	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	7.8	1	NA	NA	NO 	NA	Female 	53.3			TCGA-14-0787	69	0	2.24	1	ST
+GSM405268	GBM	IV	Proneural	Classical	Mesenchymal	Mesenchymal	NON G-CIMP	7.7	1	Wild_type	AMP 	NO 	NO 	Male 	48.04			TCGA-06-0145	53	0	2.33	1	ST
+GSM405269	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	0.4	1	Wild_type	AMP 	NA	NA	Male 	54.59			TCGA-02-0055	62	0	2.5	1	ST
+GSM405270	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	7	1	Wild_type	NA	NA	NA	Female 	73.11			TCGA-28-1747	44	1	2.53	1	ST
+GSM405271	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	3.6	1	NA	NA	NA	NA	Male 	69.89			TCGA-76-4934	66	0	2.53	1	ST
+GSM405274	GBM	IV	Mesenchymal	Classical	Mesenchymal	Classical	NON G-CIMP	15.5	1	Wild_type	AMP 	NO 	NO 	Female 	63.08			TCGA-06-0747	53	0	2.7	1	ST
+GSM405275	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	41.5	1	NA	NA	NA	NA	Female 	60.39			TCGA-06-0749	50	1	2.7	1	ST
+GSM405276	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	3.4	1	Wild_type	NON_AMP 	NA	NA	Male 	51.85			TCGA-08-0385	71	0	2.7	1	ST
+GSM405278	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	8.8	1	Wild_type	AMP 	NA	NA	Male 	58.23			TCGA-76-6193	78	0	2.7	1	ST
+GSM405280	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	29.5	1	Wild_type	NA	NO 	NO 	Female 	30.43			TCGA-06-5418	75	0	2.73	1	ST
+GSM405282	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	1.4	1	Wild_type	NA	NA	NA	Male 	51.92			TCGA-02-0033	54	0	2.83	1	ST
+GSM405290	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	13.9	1	NA	NA	NA	NA	Female 	45.5			TCGA-28-1756	78	0	2.83	0	ST
+GSM405292	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	13.3	1	Wild_type	AMP 	NA	NA	Male 	65.52			TCGA-27-2526	79	0	2.86	1	ST
+GSM405293	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	10.6	1	Mut	AMP 	NA	NA	Male 	63.73			TCGA-76-4928	85	0	3.09	1	ST
+GSM405294	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	9.6	1	Wild_type	AMP 	PARTIAL 	PARTIAL 	Male 	56.41			TCGA-06-0413	77	0	3.16	1	ST
+GSM405296	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	3.5	1	Wild_type	NON_AMP 	NO 	NO 	Female 	41.09			TCGA-06-0157	63	0	3.19	1	ST
+GSM405297	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	8.6	1	Wild_type	NON_AMP 	NO 	NO 	Female 	67.13			TCGA-02-0048	80	0	3.22	1	ST
+GSM405299	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	21	1	NA	NA	NA	NA	Female 	54.94			TCGA-06-0174	54	0	3.22	1	ST
+GSM405301	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	3.6	1	NA	NA	NA	NA	Male 	65.35			TCGA-12-5299	56	0	3.22	1	ST
+GSM405302	GBM	IV	Proneural	Proneural	Proneural	Classical	NON G-CIMP	8.9	1	Wild_type	AMP 	NA	NA	Male 	41.39			TCGA-14-0812	65	0	3.25	1	ST
+GSM405303	GBM	IV	Classical	Classical	Proneural	Classical	NON G-CIMP	6.6	1	Wild_type	NA	NA	NA	Male 	56.64			TCGA-19-1789	69	0	3.25	1	ST
+GSM405304	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Neural	NON G-CIMP	6.7	1	Wild_type	NA	NA	NA	Male 	66.39			TCGA-06-0169	68	0	3.29	1	ST
+GSM405305	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	12.7	1	Mut	NON_AMP 	NO 	NO 	Male 	52.69			TCGA-76-6192	74	0	3.29	1	ST
+GSM405307	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	4	1	Wild_type	NA	NA	NA	Male 	72.22			TCGA-02-0456	67	0	3.35	1	ST
+GSM405308	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	37.2	0	Mut	NA	NA	NA	Male 	47.4			TCGA-08-0359	59	0	3.39	1	ST
+GSM405309	GBM	IV	Proneural	Proneural	Proneural	Classical	NON G-CIMP	3.1	1	Mut	NA	NA	NA	Female 	54.6			TCGA-19-0964	70	0	3.39	0	ST
+GSM405312	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	12.2	1	Wild_type	AMP 	NA	NA	Male 	61.31			TCGA-06-0162	47	1	3.42	1	ST
+GSM405313	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	39.7	1	Mut	NON_AMP 	NA	NA	Male 	32.5			TCGA-14-4157	40	1	3.42	0	ST
+GSM405314	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	7.8	1	Wild_type	NON_AMP 	NO 	YES 	Male 	54.37			TCGA-02-0099	46	1	3.48	1	ST
+GSM405315	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	4.2	1	Wild_type	NON_AMP 	NA	NA	Male 	64.61			TCGA-06-5410	72	0	3.55	1	ST
+GSM405317	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	5.4	1	Wild_type	NA	PARTIAL 	NO 	Female 	62.36			TCGA-06-0182	76	0	3.65	1	ST
+GSM405320	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Neural	NON G-CIMP	7.2	1	Wild_type	NON_AMP 	NA	NA	Male 	70.28			TCGA-12-0692	75	0	3.65	1	ST
+GSM405322	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	13.7	1	Wild_type	NA	NA	NA	Male 	62.28			TCGA-19-1392	72	0	3.65	1	ST
+GSM405323	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	7.4	1	Wild_type	AMP 	NA	NA	Female 	58.78			TCGA-76-4929	76	0	3.65	1	ST
+GSM405324	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	8	1	Wild_type	AMP 	NO 	NO 	Male 	14.38			TCGA-19-1788	39	1	3.68	1	ST
+GSM405326	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	3.2	1	Mut	AMP 	NA	NA	Male 	74.56			TCGA-32-4210	73	0	3.72	1	ST
+GSM405328	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	27.1	1	Wild_type	AMP 	NA	NA	Male 	67.6			TCGA-06-5856	58	0	3.75	1	ST
+GSM405330	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	8.5	1	Mut	NON_AMP 	NO 	NA	Female 	33.12			TCGA-14-1401	54	0	3.75	1	ST
+GSM405337	GBM	IV	Classical	Classical	Classical	Proneural	NON G-CIMP	3.4	1	Wild_type	AMP 	NA	NA	Female 	15.02			TCGA-14-3477	38	1	3.78	0	ST
+GSM405339	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	NA	0	Wild_type	AMP 	NA	NA	Female 	78.08			TCGA-16-0846	85	0	3.91	1	ST
+GSM405340	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	66.7	0	Mut	NON_AMP 	NO 	NO 	Female 	52.88			TCGA-02-0281	78	0	3.98	1	ST
+GSM405343	GBM	IV	Mesenchymal	Proneural	Proneural	Neural	NON G-CIMP	NA	0	Wild_type	NON_AMP 	NA	NA	Male 	66.8			TCGA-06-0127	67	0	3.98	1	ST
+GSM405345	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	10.7	1	Wild_type	NON_AMP 	NA	NA	Male 	45.63			TCGA-12-1098	75	0	3.98	1	ST
+GSM405349	GBM	IV	Classical	Classical	Proneural	Classical	NON G-CIMP	28.9	1	Wild_type	NON_AMP 	NA	NA	Female 	24.42			TCGA-06-0175	69	0	4.04	1	ST
+GSM405350	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	7.3	1	Mut	NON_AMP 	NA	NA	Female 	40.74			TCGA-06-1087	75	0	4.04	1	ST
+GSM405351	GBM	IV	Classical	Classical	Mesenchymal	Neural	NON G-CIMP	14.6	1	Mut	NON_AMP 	NA	NA	Female 	42.7			TCGA-19-2625	76	0	4.08	1	ST
+GSM405352	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	4.8	1	Wild_type	AMP 	NA	NA	Female 	69.95			TCGA-12-1099	68	0	4.14	1	ST
+GSM405353	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	8.4	1	Wild_type	AMP 	NA	NA	Male 	55.39			TCGA-06-0177	64	0	4.18	1	ST
+GSM405356	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	2.2	1	Mut	NON_AMP 	NA	NO 	Female 	43.21			TCGA-08-0246	57	0	4.18	1	ST
+GSM405362	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	12.7	1	Wild_type	NA	NO 	NO 	Male 	38.11			TCGA-08-0510	75	0	4.27	1	ST
+GSM405363	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	117.5	1	Mut	NON_AMP 	NO 	NO 	Female 	48.84			TCGA-16-0861	65	0	4.31	0	ST
+GSM405365	GBM	IV	Proneural	Classical	Proneural	Classical	NON G-CIMP	31.9	1	Wild_type	NA	NO 	NO 	Male 	64.29			TCGA-02-0333	77	0	4.37	1	ST
+GSM405367	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	31.4	1	Wild_type	NON_AMP 	NO 	NO 	Male 	46.83			TCGA-06-2567	65	0	4.37	1	ST
+GSM405368	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	21.7	1	NA	NA	NA	NA	Female 	32.14			TCGA-08-0373	69	0	4.41	1	ST
+GSM405369	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	49.6	1	Mut	NON_AMP 	YES 	YES 	Female 	50.34			TCGA-41-3393	81	0	4.44	1	ST
+GSM405370	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	19.3	1	Wild_type	NON_AMP 	NO 	NO 	Male 	46.52			TCGA-06-0173	72	0	4.47	1	ST
+GSM405371	GBM	IV	Proneural	Classical	Proneural	Classical	NON G-CIMP	23	1	NA	NA	YES 	NA	Female 	53.26			TCGA-19-4068	68	0	4.5	0	ST
+GSM405372	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	39.8	1	NA	NA	YES 	YES 	Male 	37.12			TCGA-06-5412	78	0	4.54	1	ST
+GSM405373	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	14.5	1	NA	NA	YES 	NO 	Male 	58.58			TCGA-76-4926	68	0	4.54	1	ST
+GSM405374	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	14.5	1	Wild_type	NON_AMP 	YES 	YES 	Male 	58.58			TCGA-06-5859	63	0	4.57	0	ST
+GSM405375	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	0.7	1	Wild_type	NA	NO 	NA	Female 	67.03			TCGA-16-1047	66	0	4.57	1	ST
+GSM405376	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	22.2	1	Wild_type	AMP 	NO 	NA	Male 	52.98			TCGA-19-1389	51	0	4.64	1	ST
+GSM405379	GBM	IV	Proneural	Classical	Proneural	Neural	NON G-CIMP	0.6	1	Wild_type	NON_AMP 	NA	NA	Male 	60.28			TCGA-06-0194	37	1	4.67	1	ST
+GSM405384	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	0.2	0	Wild_type	NA	NO 	NO 	Female 	70.3			TCGA-32-1982	76	0	4.67	1	ST
+GSM405385	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	15.1	0	Mut	NA	NO 	NA	Male 	34.78			TCGA-06-0410	76	0	4.7	1	ST
+GSM405389	GBM	IV	Classical	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	66.7	0	NA	NA	NO 	NO 	Female 	52.88			TCGA-28-1760	48	1	4.7	0	ST
+GSM405391	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	12.6	1	NA	NA	NO 	NO 	Female 	55.55			TCGA-02-0003	50	1	4.73	1	ST
+GSM405392	GBM	IV	Classical	Classical	Proneural	Classical	NON G-CIMP	5.6	1	NA	NA	NA	NO 	Male 	48.35			TCGA-28-2509	77	0	4.77	0	ST
+GSM405393	GBM	IV	Proneural	Classical	Proneural	Classical	NON G-CIMP	1	1	Wild_type	NA	NA	NA	Male 	70.67			TCGA-08-0521	17	1	4.8	1	ST
+GSM405396	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	0.2	1	Mut	NA	NO 	NO 	Male 	77.31			TCGA-76-4925	76	0	4.8	1	ST
+GSM405397	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	4.2	1	Wild_type	AMP 	NO 	NO 	Male 	60.36			TCGA-19-2620	70	0	4.87	1	ST
+GSM405398	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	NA	1	Wild_type	NA	YES 	NO 	Male 	56.85			TCGA-06-2559	83	0	4.93	1	ST
+GSM405405	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	7.3	1	Wild_type	NA	NO 	YES 	Male 	71.09			TCGA-19-1790	56	0	5.06	1	ST
+GSM405412	GBM	IV	Classical	Classical	Classical	Neural	NON G-CIMP	7.8	1	Wild_type	NA	NA	NO 	Male 	55.71			TCGA-27-1830	57	0	5.06	1	ST
+GSM405415	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Neural	NON G-CIMP	6	1	Wild_type	NA	NO 	NO 	Male 	67.48			TCGA-06-5417	45	1	5.1	0	ST
+GSM405416	GBM	IV	Mesenchymal	Mesenchymal	Classical	Classical	NON G-CIMP	4.1	1	NA	NA	NA	NA	Male 	64.26			TCGA-28-5218	63	0	5.16	1	ST
+GSM405417	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	0.2	1	NA	NA	NO 	NO 	Male 	77.31			TCGA-28-2514	45	1	5.26	0	ST
+GSM405418	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	62	1	Mut	NON_AMP 	YES 	YES 	Male 	46.61			TCGA-06-6390	58	0	5.39	1	ST
+GSM405419	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	35.2	1	Mut	NON_AMP 	NA	NA	Male 	36.27			TCGA-14-0817	69	0	5.39	1	ST
+GSM405422	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	10.9	1	Wild_type	NA	NO 	NO 	Female 	70.67			TCGA-28-6450	60	0	5.42	1	ST
+GSM405426	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	0.6	1	Mut	NON_AMP 	NA	NA	Male 	67.1			TCGA-02-0071	53	0	5.49	1	ST
+GSM405427	GBM	IV	Classical	Classical	Classical	Neural	NON G-CIMP	18.4	1	NA	NA	NA	NA	Female 	50.83			TCGA-26-5134	74	0	5.49	0	ST
+GSM405428	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	9.5	1	Wild_type	AMP 	NO 	NO 	Female 	70.51			TCGA-06-0197	65	0	5.56	1	ST
+GSM405430	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	4.2	1	Wild_type	NON_AMP 	NO 	NO 	Male 	61.1			TCGA-06-0645	55	0	5.75	1	ST
+GSM405431	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	11	1	Wild_type	NON_AMP 	NO 	NO 	Male 	80.65			TCGA-06-0646	60	0	5.75	1	ST
+GSM405432	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Classical	NON G-CIMP	6.6	1	NA	NON_AMP 	NO 	NA	Male 	60.78			TCGA-12-1089	64	0	5.82	1	ST
+GSM405434	GBM	IV	Classical	Classical	Proneural	Classical	NON G-CIMP	2.9	1	NA	NA	NA	NA	Male 	67.01			TCGA-06-0156	57	0	5.85	1	ST
+GSM405436	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	5.8	1	Mut	NA	NA	NA	Male 	79.06			TCGA-06-0166	51	0	5.85	1	ST
+GSM405438	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	27.6	1	Wild_type	NA	YES 	YES 	Female 	42.67			TCGA-14-1827	51	0	5.88	1	ST
+GSM405440	GBM	IV	Mesenchymal	Classical	Classical	Classical	NON G-CIMP	6.4	1	NA	NON_AMP 	NA	NA	Male 	69.88			TCGA-06-2564	50	1	5.95	0	ST
+GSM405442	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	3.6	1	Wild_type	NON_AMP 	NA	NA	Female 	63.61			TCGA-19-1387	81	0	5.95	0	ST
+GSM405443	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	11.8	1	Wild_type	AMP 	NA	NA	Male 	56.62			TCGA-06-2566	23	1	5.98	1	ST
+GSM405446	GBM	IV	Mesenchymal	Classical	Classical	Classical	NON G-CIMP	8.8	1	Mut	NA	NA	NO 	Male 	68.18			TCGA-02-0060	66	0	6.02	1	ST
+GSM405447	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	33.5	1	NA	NA	NO 	NO 	Male 	59.03			TCGA-06-0122	84	0	6.15	1	ST
+GSM405448	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	5.8	1	NA	NON_AMP 	NO 	NO 	Female 	58.71			TCGA-06-5858	45	1	6.15	0	ST
+GSM405452	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	4.2	1	Wild_type	NON_AMP 	NA	NA	Female 	71.02			TCGA-14-0783	36	1	6.21	1	ST
+GSM405453	GBM	IV	Mesenchymal	Classical	Mesenchymal	Classical	NON G-CIMP	2.5	1	Wild_type	AMP 	NA	NO 	Male 	70.23			TCGA-16-1460	36	1	6.41	0	ST
+GSM405454	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	39.8	1	Mut	NA	NA	NA	Male 	22.52			TCGA-02-0054	44	1	6.54	1	ST
+GSM405455	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	2.8	1	Mut	NA	NA	NA	Female 	55.49			TCGA-19-5947	47	1	6.64	1	ST
+GSM405456	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	NA	0	Wild_type	NA	NA	NA	Male 	52.5			TCGA-14-1458	54	0	6.67	1	ST
+GSM405458	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	19	1	Wild_type	AMP 	NO 	NO 	Male 	68.46			TCGA-06-0877	78	0	6.71	0	ST
+GSM405459	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Neural	NON G-CIMP	13.7	1	Wild_type	NA	NO 	NO 	Female 	64.28			TCGA-06-5416	23	1	6.71	0	ST
+GSM405461	GBM	IV	Proneural	Proneural	Proneural	Proneural	NON G-CIMP	9.1	1	Wild_type	NON_AMP 	YES 	YES 	Female 	49.14			TCGA-28-2506	63	0	6.74	0	ST
+GSM405463	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	26.6	1	Wild_type	NON_AMP 	NA	NO 	Female 	65.53			TCGA-12-1602	58	0	6.77	1	ST
+GSM405464	GBM	IV	Classical	Classical	Proneural	Neural	NON G-CIMP	6.7	1	Wild_type	NA	NA	NA	Male 	54.72			TCGA-06-1086	42	1	6.84	1	ST
+GSM405465	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	7.6	1	Wild_type	NA	NA	NO 	Male 	69.38			TCGA-02-0046	61	0	6.87	1	ST
+GSM405466	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	3.4	1	Wild_type	NA	NO 	NO 	Male 	67.11			TCGA-06-0126	86	0	6.94	1	ST
+GSM405470	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	23	1	Mut	NA	NA	NA	Male 	31.72			TCGA-19-2631	74	0	7	1	ST
+GSM405471	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	1.8	1	Mut	NA	NA	NA	Female 	78.12			TCGA-14-1452	60	0	7.1	1	ST
+GSM405472	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	4.1	1	Mut	NA	NA	NA	Female 	62.11			TCGA-26-1443	60	0	7.13	0	ST
+GSM405473	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	13.4	1	Wild_type	AMP 	NA	NA	Male 	47.29			TCGA-06-0878	74	0	7.17	0	ST
+GSM405474	GBM	IV	Classical	Classical	Classical	Classical	NON G-CIMP	3.5	1	Wild_type	AMP 	NA	NA	Female 	61.28			TCGA-14-1829	57	0	7.17	0	ST
+GSM405475	GBM	IV	Proneural	Proneural	Proneural	Proneural	G-CIMP	12.6	1	Wild_type	NON_AMP 	NA	NA	Female 	33.74			TCGA-19-1786	64	0	7.17	0	ST
+GSM405477	GBM	IV	Proneural	Proneural	Proneural	Neural	NON G-CIMP	1.3	1	NA	NA	NA	NA	Male 	73.64			TCGA-08-0524	17	1	7.27	1	ST
+GSM405479	GBM	IV	Mesenchymal	Mesenchymal	Mesenchymal	Mesenchymal	NON G-CIMP	4.6	1	Mut	AMP 	NA	NA	Male 	63.3			TCGA-28-2513	69	0	7.3	0	ST
+																		TCGA-02-0326	82	0	7.33	1	ST
+																		TCGA-32-2616	48	1	7.36	1	ST
+																		TCGA-06-0195	63	0	7.4	1	ST
+																		TCGA-06-0210	72	0	7.4	1	ST
+																		TCGA-19-2623	65	0	7.53	0	ST
+																		TCGA-08-0531	64	0	7.56	1	ST
+																		TCGA-12-0654	48	1	7.59	1	ST
+																		TCGA-12-1090	58	0	7.59	1	ST
+																		TCGA-27-2524	56	0	7.59	1	ST
+																		TCGA-12-0775	75	0	7.63	1	ST
+																		TCGA-14-1825	70	0	7.63	1	ST
+																		TCGA-28-1751	61	0	7.63	0	ST
+																		TCGA-06-0206	40	1	7.66	1	ST
+																		TCGA-02-0324	69	0	7.73	1	ST
+																		TCGA-08-0511	69	0	7.73	1	ST
+																		TCGA-06-6389	49	1	7.79	0	ST
+																		TCGA-06-0745	59	0	7.86	1	ST
+																		TCGA-14-2555	44	1	7.96	0	ST
+																		TCGA-19-5951	76	0	8.02	1	ST
+																		TCGA-02-0058	28	1	8.35	1	ST
+																		TCGA-06-5411	51	0	8.35	1	ST
+																		TCGA-28-1750	40	1	8.35	0	ST
+																		TCGA-76-6285	64	0	8.35	1	ST
+																		TCGA-06-0208	52	0	8.42	1	ST
+																		TCGA-08-0346	69	0	8.42	1	ST
+																		TCGA-08-0353	58	0	8.42	1	ST
+																		TCGA-28-1752	42	1	8.48	0	ST
+																		TCGA-06-5415	60	0	8.55	0	ST
+																		TCGA-06-0149	74	0	8.61	1	ST
+																		TCGA-19-0960	83	0	8.61	0	ST
+																		TCGA-02-0086	45	1	8.81	1	ST
+																		TCGA-06-5413	67	0	8.81	0	ST
+																		TCGA-32-2632	80	0	8.84	1	ST
+																		TCGA-26-5135	72	0	8.88	1	ST
+																		TCGA-12-0828	57	0	8.94	1	ST
+																		TCGA-41-2573	59	0	8.94	0	ST
+																		TCGA-06-5414	61	0	8.98	0	ST
+																		TCGA-06-0397	57	0	9.01	1	ST
+																		TCGA-19-1386	51	0	9.07	1	ST
+																		TCGA-12-1096	55	0	9.11	1	ST
+																		TCGA-16-1060	70	0	9.14	1	ST
+																		TCGA-76-4931	70	0	9.17	1	ST
+																		TCGA-28-1749	73	0	9.21	0	ST
+																		TCGA-02-0446	61	0	9.27	1	ST
+																		TCGA-26-1799	68	0	9.37	1	ST
+																		TCGA-26-5132	74	0	9.4	0	ST
+																		TCGA-41-2575	75	0	9.53	1	ST
+																		TCGA-02-0059	68	0	9.57	1	ST
+																		TCGA-06-0412	56	0	9.57	1	ST
+																		TCGA-19-2619	55	0	9.67	0	ST
+																		TCGA-12-0776	52	0	9.73	1	ST
+																		TCGA-26-1440	48	1	9.73	0	ST
+																		TCGA-06-0648	77	0	9.8	1	ST
+																		TCGA-08-0349	46	1	9.8	1	ST
+																		TCGA-27-1832	59	0	9.86	1	ST
+																		TCGA-02-0321	74	0	9.9	1	ST
+																		TCGA-26-1438	36	1	10.03	0	ST
+																		TCGA-06-0148	76	0	10.09	1	ST
+																		TCGA-02-0074	68	0	10.19	1	ST
+																		TCGA-06-0141	62	0	10.29	1	ST
+																		TCGA-16-1055	48	1	10.29	1	ST
+																		TCGA-06-0190	62	0	10.42	1	ST
+																		TCGA-06-0155	61	0	10.45	1	ST
+																		TCGA-12-0620	57	0	10.45	1	ST
+																		TCGA-02-0039	54	0	10.52	1	ST
+																		TCGA-02-0430	67	0	10.55	1	ST
+																		TCGA-02-0009	61	0	10.59	1	ST
+																		TCGA-02-0338	41	1	10.59	1	ST
+																		TCGA-02-0325	61	0	10.62	1	ST
+																		TCGA-12-0821	62	0	10.62	1	ST
+																		TCGA-02-0038	48	1	10.72	1	ST
+																		TCGA-02-0269	68	0	10.75	1	ST
+																		TCGA-08-0520	70	0	10.75	1	ST
+																		TCGA-19-1385	69	0	10.75	1	ST
+																		TCGA-06-0158	73	0	10.82	1	ST
+																		TCGA-06-0394	51	0	10.82	1	ST
+																		TCGA-32-4719	73	0	10.85	1	ST
+																		TCGA-12-3650	46	1	10.95	1	ST
+																		TCGA-28-5215	62	0	11.01	1	ST
+																		TCGA-08-0514	69	0	11.08	1	ST
+																		TCGA-14-0789	54	0	11.24	1	ST
+																		TCGA-28-5207	71	0	11.28	1	ST
+																		TCGA-02-0004	59	0	11.34	1	ST
+																		TCGA-02-0440	62	0	11.34	1	ST
+																		TCGA-28-1745	76	0	11.34	0	ST
+																		TCGA-06-0167	44	1	11.41	1	ST
+																		TCGA-27-1838	59	0	11.51	1	ST
+																		TCGA-02-0106	54	0	11.67	1	ST
+																		TCGA-06-0143	58	0	11.74	1	ST
+																		TCGA-06-5408	54	0	11.74	1	ST
+																		TCGA-02-0001	44	1	11.77	1	ST
+																		TCGA-19-0955	71	0	11.77	0	ST
+																		TCGA-06-0160	56	0	11.8	1	ST
+																		TCGA-06-0211	47	1	11.84	1	ST
+																		TCGA-06-1801	56	0	11.84	1	ST
+																		TCGA-41-3915	48	1	11.84	1	ST
+																		TCGA-06-0139	40	1	11.9	1	ST
+																		TCGA-19-5954	72	0	12.1	1	MT
+																		TCGA-02-0027	33	1	12.16	1	MT
+																		TCGA-08-0348	63	0	12.16	1	MT
+																		TCGA-02-0317	40	1	12.23	1	MT
+																		TCGA-08-0375	51	0	12.23	1	MT
+																		TCGA-12-1094	56	0	12.23	1	MT
+																		TCGA-32-2491	63	0	12.23	1	MT
+																		TCGA-06-0152	68	0	12.33	1	MT
+																		TCGA-02-0339	67	0	12.39	1	MT
+																		TCGA-14-1459	63	0	12.43	1	MT
+																		TCGA-06-2558	75	0	12.49	1	MT
+																		TCGA-06-2562	81	0	12.56	1	MT
+																		TCGA-08-0509	63	0	12.56	1	MT
+																		TCGA-02-0052	49	1	12.59	1	MT
+																		TCGA-32-4211	56	0	12.59	1	MT
+																		TCGA-02-0084	36	1	12.62	1	MT
+																		TCGA-06-0644	71	0	12.62	1	MT
+																		TCGA-19-1787	48	1	12.66	1	MT
+																		TCGA-12-3651	77	0	12.69	1	MT
+																		TCGA-32-1986	68	0	12.69	1	MT
+																		TCGA-28-5220	67	0	12.76	1	ST
+																		TCGA-02-2470	57	0	12.92	1	MT
+																		TCGA-06-0130	54	0	12.95	1	MT
+																		TCGA-19-1388	58	0	12.95	1	MT
+																		TCGA-12-0618	49	1	12.99	1	MT
+																		TCGA-06-0171	65	0	13.12	1	MT
+																		TCGA-15-1449	65	0	13.28	1	MT
+																		TCGA-06-0238	46	1	13.32	1	MT
+																		TCGA-41-2572	67	0	13.35	1	MT
+																		TCGA-06-1804	81	0	13.61	1	MT
+																		TCGA-06-0237	75	0	13.64	1	MT
+																		TCGA-28-5216	52	0	13.64	0	MT
+																		TCGA-14-0790	64	0	13.78	1	MT
+																		TCGA-15-0742	65	0	13.78	1	MT
+																		TCGA-02-0285	50	1	13.87	1	MT
+																		TCGA-26-1439	63	0	13.87	1	MT
+																		TCGA-06-0154	54	0	13.94	1	MT
+																		TCGA-08-0390	69	0	13.97	1	MT
+																		TCGA-16-1063	72	0	13.97	1	MT
+																		TCGA-16-1056	55	0	14.01	1	MT
+																		TCGA-27-1837	36	1	14.04	1	MT
+																		TCGA-19-5958	56	0	14.07	1	MT
+																		TCGA-02-0034	60	0	14.14	1	MT
+																		TCGA-02-0289	57	0	14.2	1	MT
+																		TCGA-06-0686	53	0	14.2	1	MT
+																		TCGA-19-0963	61	0	14.27	1	MT
+																		TCGA-06-0133	64	0	14.3	1	MT
+																		TCGA-27-2527	81	0	14.4	1	MT
+																		TCGA-02-0271	26	1	14.47	1	MT
+																		TCGA-02-0422	50	1	14.5	1	MT
+																		TCGA-12-1097	61	0	14.53	1	MT
+																		TCGA-12-3653	34	1	14.53	1	MT
+																		TCGA-28-5209	66	0	14.53	0	ST
+																		TCGA-02-0047	78	0	14.73	1	MT
+																		TCGA-12-0616	36	1	14.73	1	MT
+																		TCGA-12-1600	86	0	14.73	1	MT
+																		TCGA-12-0780	51	0	14.86	1	MT
+																		TCGA-26-5133	59	0	14.86	0	MT
+																		TCGA-32-1987	49	1	14.86	1	MT
+																		TCGA-08-0380	74	0	14.93	1	MT
+																		TCGA-12-0778	53	0	14.93	1	MT
+																		TCGA-12-5295	60	0	14.93	1	MT
+																		TCGA-28-5204	72	0	14.93	1	MT
+																		TCGA-19-5960	56	0	14.96	1	MT
+																		TCGA-06-0214	66	0	15.02	1	MT
+																		TCGA-32-2495	59	0	15.02	1	MT
+																		TCGA-02-0051	43	1	15.09	1	MT
+																		TCGA-14-0736	49	1	15.12	1	MT
+																		TCGA-41-5651	59	0	15.12	1	MT
+																		TCGA-12-3649	76	0	15.22	1	MT
+																		TCGA-02-2483	43	1	15.32	0	MT
+																		TCGA-06-1802	61	0	15.32	1	MT
+																		TCGA-08-0389	59	0	15.35	1	MT
+																		TCGA-08-0360	76	0	15.39	1	MT
+																		TCGA-32-1970	59	0	15.39	1	MT
+																		TCGA-06-0189	55	0	15.42	1	MT
+																		TCGA-02-2485	53	0	15.45	0	MT
+																		TCGA-02-0115	52	0	15.65	1	MT
+																		TCGA-12-1598	75	0	15.65	1	MT
+																		TCGA-27-2528	62	0	15.78	1	MT
+																		TCGA-12-1095	65	0	15.85	1	MT
+																		TCGA-32-1978	57	0	15.85	1	MT
+																		TCGA-02-0330	51	0	15.91	1	MT
+																		TCGA-02-0290	49	1	15.95	1	MT
+																		TCGA-14-1034	60	0	15.95	1	MT
+																		TCGA-32-2615	62	0	15.95	1	MT
+																		TCGA-08-0525	52	0	15.98	1	MT
+																		TCGA-12-1093	66	0	15.98	1	MT
+																		TCGA-27-2523	63	0	16.08	1	MT
+																		TCGA-02-0451	62	0	16.21	1	MT
+																		TCGA-16-0850	52	0	16.37	1	MT
+																		TCGA-14-0865	67	0	16.5	1	MT
+																		TCGA-02-0258	36	1	16.54	1	MT
+																		TCGA-06-0881	50	1	16.57	1	MT
+																		TCGA-27-1831	66	0	16.6	1	MT
+																		TCGA-06-2565	59	0	16.64	1	MT
+																		TCGA-76-6191	57	0	16.7	1	MT
+																		TCGA-27-2521	34	1	16.77	1	ST
+																		TCGA-02-2466	61	0	16.8	1	MT
+																		TCGA-19-5959	77	0	16.8	1	MT
+																		TCGA-02-0260	54	0	16.93	1	MT
+																		TCGA-32-1991	60	0	16.93	1	MT
+																		TCGA-02-0089	52	0	16.96	1	MT
+																		TCGA-76-6282	63	0	17.06	1	MT
+																		TCGA-19-5950	52	0	17.19	1	MT
+																		TCGA-14-2554	52	0	17.49	1	MT
+																		TCGA-16-0848	57	0	17.59	1	MT
+																		TCGA-76-4927	58	0	17.59	1	MT
+																		TCGA-02-0107	56	0	17.65	1	MT
+																		TCGA-06-2561	53	0	17.65	1	MT
+																		TCGA-02-0266	14	1	17.72	1	MT
+																		TCGA-06-0147	51	0	17.79	1	MT
+																		TCGA-14-1821	31	1	17.79	1	MT
+																		TCGA-14-1823	58	0	17.85	1	MT
+																		TCGA-28-5208	52	0	17.88	1	MT
+																		TCGA-08-0354	52	0	17.95	1	MT
+																		TCGA-08-0386	74	0	18.02	1	MT
+																		TCGA-27-2519	48	1	18.08	1	MT
+																		TCGA-02-0043	54	0	18.31	1	MT
+																		TCGA-08-0529	56	0	18.41	1	MT
+																		TCGA-12-0820	40	1	18.48	1	MT
+																		TCGA-19-5952	62	0	18.9	1	MT
+																		TCGA-26-5136	78	0	18.97	1	MT
+																		TCGA-15-1446	55	0	19.1	0	MT
+																		TCGA-32-5222	66	0	19.23	1	MT
+																		TCGA-14-1037	66	0	19.3	1	MT
+																		TCGA-08-0518	60	0	19.33	1	MT
+																		TCGA-32-1979	69	0	19.5	1	MT
+																		TCGA-08-0516	14	1	19.59	1	MT
+																		TCGA-06-0168	59	0	19.66	1	MT
+																		TCGA-02-0064	50	1	19.73	1	MT
+																		TCGA-06-0221	31	1	19.82	1	MT
+																		TCGA-02-0057	66	0	19.86	1	MT
+																		TCGA-32-4213	47	1	19.86	0	MT
+																		TCGA-06-0146	33	1	20.09	1	MT
+																		TCGA-02-0023	38	1	20.12	1	MT
+																		TCGA-06-0179	64	0	20.25	1	MT
+																		TCGA-02-2486	64	0	20.32	1	MT
+																		TCGA-32-4209	40	1	20.32	1	MT
+																		TCGA-06-0124	67	0	20.38	1	MT
+																		TCGA-12-0703	46	1	20.38	1	MT
+																		TCGA-06-0240	57	0	20.42	1	MT
+																		TCGA-12-0829	75	0	20.58	1	MT
+																		TCGA-02-0015	50	1	20.61	1	MT
+																		TCGA-02-0011	18	1	20.71	1	MT
+																		TCGA-06-0882	30	1	20.78	1	MT
+																		TCGA-32-2494	58	0	20.78	1	MT
+																		TCGA-02-0075	63	0	20.84	1	MT
+																		TCGA-08-0522	61	0	20.88	1	MT
+																		TCGA-32-1973	21	1	21.07	1	MT
+																		TCGA-32-4208	25	1	21.14	0	MT
+																		TCGA-16-1062	57	0	21.24	1	MT
+																		TCGA-27-1835	53	0	21.3	1	MT
+																		TCGA-12-1092	58	0	21.73	1	MT
+																		TCGA-19-0957	48	1	21.9	1	MT
+																		TCGA-12-1597	62	0	22.19	1	MT
+																		TCGA-08-0358	50	1	22.29	1	MT
+																		TCGA-19-5956	53	0	22.49	1	MT
+																		TCGA-08-0244	62	0	22.68	1	MT
+																		TCGA-28-5219	47	1	22.68	0	MT
+																		TCGA-02-0083	59	0	22.72	1	MT
+																		TCGA-06-0128	66	0	22.72	1	MT
+																		TCGA-32-2634	82	0	22.78	0	MT
+																		TCGA-14-0786	50	1	23.05	1	MT
+																		TCGA-14-1451	39	1	23.11	1	MT
+																		TCGA-02-0007	40	1	23.18	1	MT
+																		TCGA-02-0111	56	0	23.18	1	MT
+																		TCGA-28-5214	53	0	23.44	1	MT
+																		TCGA-12-0822	46	1	23.51	1	MT
+																		TCGA-06-0650	39	1	23.57	1	MT
+																		TCGA-06-1084	54	0	23.93	1	MT
+																		TCGA-06-0216	61	0	24.16	1	MT
+																		TCGA-06-0138	43	1	24.23	1	MT
+																		TCGA-19-2629	60	0	24.23	1	MT
+																		TCGA-27-1833	67	0	24.23	1	MT
+																		TCGA-08-0355	30	1	24.56	1	MT
+																		TCGA-02-0026	27	1	24.59	1	MT
+																		TCGA-27-2518	52	0	24.76	1	MT
+																		TCGA-12-0819	49	1	24.79	1	MT
+																		TCGA-02-0070	70	0	25.05	0	MT
+																		TCGA-02-0337	48	1	25.12	1	MT
+																		TCGA-32-2638	67	0	25.18	1	MT
+																		TCGA-06-0132	49	1	25.35	1	MT
+																		TCGA-19-1390	63	0	25.38	1	MT
+																		TCGA-12-1599	47	1	25.68	1	MT
+																		TCGA-02-0332	46	1	25.71	1	MT
+																		TCGA-08-0347	50	1	25.71	1	MT
+																		TCGA-12-0670	60	0	25.97	1	MT
+																		TCGA-16-0849	54	0	26.07	0	MT
+																		TCGA-87-5896	50	1	26.3	0	MT
+																		TCGA-14-0866	55	0	26.33	1	MT
+																		TCGA-06-0743	69	0	26.4	1	MT
+																		TCGA-02-0068	57	0	26.43	1	MT
+																		TCGA-12-0688	74	0	26.66	1	MT
+																		TCGA-06-0137	63	0	26.7	1	MT
+																		TCGA-06-0939	79	0	26.76	1	MT
+																		TCGA-06-1800	61	0	26.79	1	MT
+																		TCGA-12-3648	61	0	26.93	1	MT
+																		TCGA-02-0102	42	1	27.02	1	MT
+																		TCGA-06-0187	69	0	27.22	1	MT
+																		TCGA-02-0079	57	0	27.25	1	MT
+																		TCGA-12-0826	38	1	27.78	1	MT
+																		TCGA-12-0707	55	0	28.41	1	MT
+																		TCGA-02-0069	31	1	28.7	0	MT
+																		TCGA-14-0871	74	0	28.93	1	MT
+																		TCGA-16-1045	49	1	29.03	1	MT
+																		TCGA-08-0350	32	1	29.23	1	MT
+																		TCGA-27-1836	33	1	30.05	1	MT
+																		TCGA-14-1454	54	0	30.18	1	MT
+																		TCGA-06-2563	72	0	30.64	0	MT
+																		TCGA-08-0356	59	0	31.1	1	MT
+																		TCGA-28-5213	72	0	31.27	0	MT
+																		TCGA-26-1442	43	1	31.33	0	MT
+																		TCGA-06-2570	21	1	31.5	0	MT
+																		TCGA-14-1402	58	0	32.05	1	MT
+																		TCGA-12-1091	10	1	33.21	1	MT
+																		TCGA-06-0129	30	1	33.67	1	MT
+																		TCGA-06-1805	28	1	33.9	0	MT
+																		TCGA-12-0619	60	0	34.92	1	MT
+																		TCGA-12-3652	60	0	34.92	1	MT
+																		TCGA-06-0414	63	0	35.11	1	MT
+																		TCGA-02-0010	20	1	35.41	1	MT
+																		TCGA-76-4935	52	0	36.85	1	LT
+																		TCGA-08-0357	49	1	37.58	1	LT
+																		TCGA-08-0245	31	1	37.84	1	LT
+																		TCGA-12-0827	38	1	38.76	1	LT
+																		TCGA-06-0192	58	0	38.96	1	LT
+																		TCGA-06-0879	52	0	40.41	1	LT
+																		TCGA-27-1834	56	0	40.54	1	LT
+																		TCGA-14-1456	23	1	40.96	0	LT
+																		TCGA-08-0512	48	1	42.15	1	LT
+																		TCGA-02-0025	47	1	42.74	1	LT
+																		TCGA-12-0773	24	1	43.23	1	LT
+																		TCGA-06-0875	61	0	43.46	0	LT
+																		TCGA-12-3646	59	0	44.02	1	LT
+																		TCGA-06-0188	71	0	44.58	1	LT
+																		TCGA-06-0876	72	0	46.19	0	LT
+																		TCGA-06-0744	66	0	46.88	1	LT
+																		TCGA-02-0432	36	1	47.11	1	LT
+																		TCGA-06-0125	63	0	47.61	1	LT
+																		TCGA-76-4932	50	1	47.93	1	LT
+																		TCGA-06-0241	65	0	48.69	1	LT
+																		TCGA-02-0116	51	0	48.95	1	LT
+																		TCGA-15-1444	21	1	50.53	1	LT
+																		TCGA-02-0085	63	0	51.32	1	LT
+																		TCGA-02-0024	35	1	53.1	1	LT
+																		TCGA-15-1447	36	1	53.19	0	LT
+																		TCGA-12-0772	46	1	53.85	1	LT
+																		TCGA-06-0164	47	1	56.91	1	LT
+																		TCGA-02-0087	27	1	57.76	0	LT
+																		TCGA-08-0517	34	1	58.68	1	LT
+																		TCGA-12-3644	47	1	59.77	1	LT
+																		TCGA-02-0104	29	1	65	1	LT
+																		TCGA-08-0351	40	1	65.33	1	LT
+																		TCGA-06-0184	63	0	69.9	1	LT
+																		TCGA-06-0409	43	1	72.36	1	LT
+																		TCGA-06-0185	54	0	73.84	0	LT
+																		TCGA-02-0021	43	1	77.65	1	LT
+																		TCGA-02-0014	25	1	82.59	1	LT
+																		TCGA-02-0016	50	1	87.06	1	LT
+																		TCGA-06-0178	38	1	88.14	1	LT
+																		TCGA-02-0080	28	1	89.72	1	LT
+																		TCGA-02-0028	39	1	90.58	1	LT
+																		TCGA-06-0176	34	1	91	0	LT
+																		TCGA-12-0818	45	1	91.76	1	LT
+																		TCGA-02-0113	43	1	92.65	0	LT
+																		TCGA-12-0656	48	1	94.78	1	LT
+																		TCGA-02-0114	37	1	99.98	1	LT
+																		TCGA-08-0344	66	0	115.86	1	LT
+																		TCGA-12-1088	53	0	127.59	1	LT

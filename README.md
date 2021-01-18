@@ -11,7 +11,7 @@ The GSE_upregulated(0.5).txt and TCGA_upregulated(0.5).txt both can be used as i
 
 **Study result**\
 <p align="center">
-The results reported in the article can be accessed and viewed [here]https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
+The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
 
 **Workflows**\
 <p align="center">

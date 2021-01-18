@@ -10,7 +10,7 @@ Contains (a) cleaned up expression data (b) Sample info (c) Limma and (d) list o
 The GSE_upregulated(0.5).txt is used as input to the workflow. TCGA-GBM microarray data were used to validate the observations.
 
 
-**Study result**    The results reported in the article can be accessed and viewed **[here](https://ge.genexplain.com/bioumlweb/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/)**
+**Study result**    The results reported in the article can be accessed and viewed **[here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/)**
 
 **Workflow**    The computational workflow applied in the study can be inspected **[here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/GE%20workflow/Workflow.png)**
 

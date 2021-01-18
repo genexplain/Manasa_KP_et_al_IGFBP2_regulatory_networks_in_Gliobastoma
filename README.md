@@ -9,8 +9,9 @@ In the study, we developed a computational workflow for analysis of publicly ava
 Contains (a) cleaned up expression data (b) Sample info (c) Limma and (d) list of upregulated genes for GSE dataset (GSE108474  & GSE53733) and TCGA-GBM microarray dataset. 
 The GSE_upregulated(0.5).txt and TCGA_upregulated(0.5).txt both can be used as input to the workflow. TCGA-GBM microarray data were used to validate the observations.
 
+<p align="center">
 **Study result**\
-## The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
+The results reported in the article can be accessed and viewed [here](https://ge.genexplain.com/#de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/Outputs/CMAWK%20on%20enhancers%20output/Feedback%20Controlled%20Master%20Regulators)
 
 **Workflows**\
 ## The computational workflow applied in the study can be inspected [here]

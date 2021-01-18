@@ -17,7 +17,7 @@ The GSE_upregulated(0.5).txt is used as input to the workflow. TCGA-GBM microarr
 #### The computational workflow applied in the study can be inspected [here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/GE%20workflow/Workflow.png)
 
 **Workflow execution** 
-To run the workflow please click **[here]**(https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/GE%20workflow/Workflow)
+To run the workflow please click **[here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/GE%20workflow/Workflow)
 Drag and drop the input file of upregulated genes– “GSE dataset/ GSE_uprergulated(0.5)” onto the workflow execution box. The results are generated and will be accessible under Results/Output/ folder 
 
 

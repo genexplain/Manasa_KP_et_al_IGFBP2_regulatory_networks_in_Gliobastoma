@@ -13,7 +13,7 @@ The GSE_upregulated(0.5).txt is given as input to the workflow. TCGA_upregulated
 **Study result**    The results reported in the article can be accessed and viewed **[here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GSE_dataset/)**
 
 
-**Workflow**        The computational workflow applied in the study can be inspected [here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GE workflow/Workflow.png)**
+**Workflow**        The computational workflow applied in the study can be inspected **[here] (https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GE workflow/Workflow.png)**
 
 
 **Workflow execution**       To run the workflow please click **[here](https://ge.genexplain.com/bioumlweb/#user=demo@genexplain.com&pass=demo19b&de=data/Projects/Regulatory_Networks_of_Glioblastoma_survival/Data/GE%20workflow/Workflow)**.\
